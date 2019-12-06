@@ -113,6 +113,8 @@
                          "LocationMatch"
                          "Proxy"
                          "ProxyMatch"
+			 "RequireAll"
+			 "RequireAny"
                          "VirtualHost"
 
                          ) 'words)
